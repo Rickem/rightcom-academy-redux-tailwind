@@ -1,4 +1,4 @@
-// components/Counter.tsx
+"use client";
 import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "@/lib/store";
